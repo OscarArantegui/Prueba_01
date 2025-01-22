@@ -1,0 +1,5 @@
+[user]
+	name = Oscar
+	email = aranteguijimenez24@iespabloserrano.com
+[merge]
+	tool = kdiff3
